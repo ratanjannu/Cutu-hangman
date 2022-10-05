@@ -1,0 +1,1 @@
+word_list = ['cutu','bebe', 'cutubebe','jammy','beautiful','baby','babyboo','love','technologist','mathemist','stinky','queen','egheghegh','chikupp','chinni','gondu','bhangra','bebo','wifey','everything']
